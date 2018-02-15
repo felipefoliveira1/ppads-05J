@@ -1,63 +1,52 @@
 # Documento de Visão do Projeto "NOME DO PROJETO"
-
+## As informações utilizadas neste exercício foram consultadas em: http://www.bb.com.br/docs/pub/siteEsp/dilog/dwn/RFPGItermosg.pdf.
 Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, solicitado pelo cliente *"NOME DO CLIENTE"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
 esperadas do sistema.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Ideação
+* Colaboração
+* Desenvolvimento de ideias
+* Gestão de ideias
+* Administração do sistema
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: Gestão no processo de inovação em um ambiente colaborativo
+* Quem é afetado pelo problema: público interno do Banco do Brasil
+* Impacto no negócio: captação, desenvolvimento e gestão de ideias
+* Benefícios de uma boa solução: aumento da produtividade e embasamento nas decisões das inicitivas de projetos de inovação.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
+* RFP (Request for Proposal)
 
-## Integração com outros sistemas
-
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+
+* Funcionários
+* Gestão
+* Administrador
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Captação de ideias por meio de campanhas e desafios junto ao público
+interno;
+* Desenvolvimento de ideias em ambiente colaborativo;
+* Gestão do portfólio de ideias. 
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Atendimento aos requisitos desta RFP;
+* Capacidade técnica;
+* Prazo de implementação;
+* Preço. 
 
 ## Protótipos de tela
 
