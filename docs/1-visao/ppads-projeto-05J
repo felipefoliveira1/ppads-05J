@@ -46,7 +46,7 @@ Este documento apresenta uma solução de software para o projeto "Think Tasty",
 
 ## Restrições do projeto
 
-* •	O Software não terá receitas que não atendam pelo menos uma das três deficiências impostas (intolerância a glúten, intolerância a lactose ou diabetes).
+* O Software não terá receitas que não atendam pelo menos uma das três deficiências impostas (intolerância a glúten, intolerância a lactose ou diabetes).
 
 ## Casos de Uso
 
